@@ -1,5 +1,5 @@
 {
-    "name": "eternicode/bootstrap-datepicker",
+    "name": "rkaiser0324/bootstrap-datepicker",
     "description": "A datepicker for Bootstrap forked from Stefan Petre's (of eyecon.ro)",
     "license": "Apache-2.0",
     "keywords": [
@@ -16,7 +16,7 @@
             "homepage": "https://github.com/eternicode/bootstrap-datepicker/contributors"
         }
     ],
-    "type": "component",
+    "type": "cakephp-webroot-component",
     "require": {
         "robloach/component-installer": "*",
         "components/bootstrap" : ">=3.0, <4.0",
