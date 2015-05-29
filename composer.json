@@ -16,7 +16,7 @@
             "homepage": "https://github.com/eternicode/bootstrap-datepicker/contributors"
         }
     ],
-    "type": "cakephp-webroot-component",
+    "type": "cakephp-plugin",
     "require": {
         "robloach/component-installer": "*",
         "components/bootstrap" : ">=3.0, <4.0",
